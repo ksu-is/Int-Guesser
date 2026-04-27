@@ -1,0 +1,11 @@
+- [x] Create Name for Project
+- [x] Create Description for Project
+- [x] Find YouTube Video/GitHub repository for reference
+- [x] Create GitHub repository in ksu-is
+- [x] Fork created repository to personal GitHub to work on
+- [x] Create ReadMe in Int-Guesser GitHub
+- [x] Create projectroadmap.md
+- [ ] Begin coding and identify problems, note these problems
+- [ ] Resolve any problems and note solutions
+- [ ] Merge forked repository with main ksu-is repository so files are updated where they are supposed to be.
+- [ ] Complete Code
