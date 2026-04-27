@@ -5,7 +5,10 @@
 - [x] Fork created repository to personal GitHub to work on
 - [x] Create ReadMe in Int-Guesser GitHub
 - [x] Create projectroadmap.md
-- [ ] Begin coding and identify problems, note these problems
-- [ ] Resolve any problems and note solutions
+- [x] Begin coding
+- [x] Allow the User to set a customizable number range for the program.
+- [x] Allow the User to customize the amount of attempts they are alloted.
+- [ ] Test High ranges (100+)
+- [ ] Test Failures on high attempt counts (50+)
 - [ ] Merge forked repository with main ksu-is repository so files are updated where they are supposed to be.
 - [ ] Complete Code
