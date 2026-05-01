@@ -8,7 +8,7 @@
 - [x] Begin coding
 - [x] Allow the User to set a customizable number range for the program.
 - [x] Allow the User to customize the amount of attempts they are alloted.
-- [ ] Test High ranges (100+)
-- [ ] Test Failures on high attempt counts (50+)
-- [ ] Merge forked repository with main ksu-is repository so files are updated where they are supposed to be.
-- [ ] Complete Code
+- [x] Test High ranges (100+)
+- [x] Test Failures on high attempt counts (50+)
+- [x] Merge forked repository with main ksu-is repository so files are updated where they are supposed to be.
+- [x] Complete Code
