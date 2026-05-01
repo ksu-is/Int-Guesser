@@ -1,14 +1,14 @@
 import random
 
-print("Welcome to Int-Guesser! \nYou have 10 chances to guess the number. Let's begin by setting the range.")
+print("Welcome to Int-Guesser! \nYou have 8 chances to guess the number. Let's begin by setting the range.")
 
 low = int(input("Enter the Lower Range: "))
 high = int(input("Enter the Upper Range: "))
 
-print(f"\nYou have 10 chances to guess the number between {low} and {high}. Let's start!")
+print(f"\nYou have 8 chances to guess the number between {low} and {high}. Let's start!")
 
 num = random.randint(low, high) 
-ch = 10                        # Total number of allowed guesses. IF changed, adjust line 8 message accordingly.
+ch = 8                        # Total number of allowed guesses. IF changed, adjust line 3 and 8 messages accordingly.
 gc = 0                        # Current number of guesses.
 
 while gc < ch:
